@@ -7,3 +7,8 @@ A simple marketplace for budget-friendly products.
 - Easy to deploy on Render
 
 ## Installation
+npm install
+npm start
+
+## License
+MIT

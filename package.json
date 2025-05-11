@@ -1,0 +1,12 @@
+{
+  "name": "sastabazaar",
+  "version": "1.0.0",
+  "description": "A simple marketplace for budget-friendly products.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }k
+}
